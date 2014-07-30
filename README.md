@@ -33,16 +33,15 @@ $("<search field selector>").autocomplete({
 #### lookup
 
 |**Parameter**|lookup|
-| - | - |
+| ------------- | ------- |
 |**Type**|`Array`|
 |**Default**|`[] (empty array)`|
 |**Required**|Yes|
 |**Description**|Data for autocomplete|
 
-
 #### transliteration
 |**Parameter**|transliteration|
-| - | - |
+| ------------- | ------- |
 |**Type**|`Boolean`|
 |**Default**|`true`|
 |**Required**|No|
@@ -51,7 +50,7 @@ $("<search field selector>").autocomplete({
 #### autoSelectFirst
 
 |**Parameter**|autoSelectFirst|
-|-|-|
+| ------------- | ------- |
 |**Type**|`Boolean`|
 |**Default**|`true`|
 |**Required**|No|
@@ -60,7 +59,7 @@ $("<search field selector>").autocomplete({
 #### caseSensetive
 
 |**Parameter**|caseSensetive|
-|-|-|
+| ------------- | ------- |
 |**Type**|`Boolean`|
 |**Default**|`false`|
 |**Required**|No|
@@ -69,7 +68,7 @@ $("<search field selector>").autocomplete({
 #### classes
 
 |**Parameter**|classes|
-|-|-|
+| ------------- | ------- |
 |**Type**|`Object`|
 |**Required**|No|
 |**Description**|Set of css classes to customize output view.|
@@ -88,7 +87,7 @@ Default classes:
 #### containerParent
 
 |**Parameter**|**containerParent**|
-|-------------|---------------|
+| ------------- | ------- |
 |**Type**|`String`|
 |**Default**|`"body"`|
 |**Required**|No|
@@ -97,7 +96,7 @@ Default classes:
 #### showAll
 
 |**Parameter**|showAll|
-|-|-|
+| ------------- | ------- |
 |**Type**|`function`|
 |**Default**|`undefined`|
 |**Required**|No|
@@ -113,7 +112,7 @@ Usage example:
 #### containerHeight
 
 |**Parameter**|containerHeight|
-|-|-|
+| ------------- | ------- |
 |**Type**|`Number`|
 |**Default**|`500`|
 |**Required**|No|
@@ -122,7 +121,7 @@ Usage example:
 #### labels.showAllButtonText
 
 |**Parameter**|labels.showAllButtonText|
-|-|-|
+| ------------- | ------- |
 |**Type**|`String`|
 |**Default**|`"Show all"`|
 |**Required**|No|
